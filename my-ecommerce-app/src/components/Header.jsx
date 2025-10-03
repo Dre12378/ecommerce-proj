@@ -4,8 +4,8 @@ const Header = () => {
     return (
         <div>
             <header>
-                <div class="">
-                    <ul>
+                <div>
+                    <ul className="flex gap-x-[10px]">
                         <li>Home</li>
                         <li>About</li>
                         <li>Contact</li>
